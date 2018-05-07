@@ -2,4 +2,4 @@
 Solutions Codeforces Problems in Java 8\
 
 
-*My codeforces profile: http://codeforces.com/profile/KyrilloSWaliDRadI
+* My Codeforces profile: http://codeforces.com/profile/KyrilloSWaliDRadI
